@@ -1,4 +1,4 @@
-# LeetCode记录
+# LeetCode刷题记录
 
 ## 目录
 
